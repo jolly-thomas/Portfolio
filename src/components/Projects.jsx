@@ -8,7 +8,7 @@ const Projects = () => {
         
         <div className=' w-full text-center hover:cursor-default'>
             <h1 className={styles.SectionHead}>Projects Showcase</h1>
-            <h3 className={styles.SectionSubHead}>Let him cook.</h3>
+            <h3 className={styles.SectionSubHead}>Built with passion.</h3>
         </div>
         <div className=' grid grid-cols-1 gap-y-10 md:grid md:grid-cols-3 md:grid-rows-2 md:gap-y-12 pt-10  justify-items-center '>
          
