@@ -16,7 +16,7 @@ const Socials = () => {
         </div>
         <div className=' grid grid-rows-2 grid-flow-col gap-y-4 pt-4 pb-4  justify-items-center  md:w-4/6  bg-white md:flex md:justify-center md:items-center md:space-x-8 rounded'>
         
-        <a href='https://github.com/thatadi' target='_blank'><img src={github} alt='github' className='w-9 h-9 md:w-12 md:h-12 transition-transform ease-in-out hover:duration-300 hover:scale-125 hover:cursor-pointer'/></a>
+        <a href='https://github.com/jolly-thomas' target='_blank'><img src={github} alt='github' className='w-9 h-9 md:w-12 md:h-12 transition-transform ease-in-out hover:duration-300 hover:scale-125 hover:cursor-pointer'/></a>
 {/*         <a href='https://x.com/furious_thomas_?t=30-WjMrP2oR4FmV39IIWRA&s=09' target='_blank'><img src={twitter} alt='twitter' className='w-9 h-9 md:w-12 md:h-12 transition-transform ease-in-out hover:duration-300 hover:scale-125 hover:cursor-pointer'/></a> */}
         <a href='www.linkedin.com/in/adityaryaka' target='_blank'><img src={linkedin} alt='linkedin' className='w-9 h-9 md:w-12 md:h-12 transition-transform ease-in-out hover:duration-300 hover:scale-125 hover:cursor-pointer' /></a>
         <a href='https://maps.app.goo.gl/EswqXuvzbTvUi4pn9' target='_blank'><img src={pin} alt='google maps' className='w-9 h-9 md:w-12 md:h-12 transition-transform ease-in-out hover:duration-300 hover:scale-125 hover:cursor-pointer'/></a>
